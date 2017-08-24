@@ -1,0 +1,8 @@
+[user]
+	name = Shannon Liang
+	email = shannonliang312@gmail.com
+[credential]
+	helper = store
+[http]
+[http]
+	proxy = http://127.0.0.1:1080

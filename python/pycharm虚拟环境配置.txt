@@ -1,0 +1,11 @@
+Select File, click Settings.
+In the left pane, enter Project Interpreter in the search box, then click Project Interpreter.
+In the right pane, click the gear icon, click More¡­.
+In the Project Interpreters dialog box, click the plus sign +, click Add Local.
+Enter ~/virtualenvs/<your virtualenv name>/bin/python in the path. If you followed the earlier post to setup a virtual environment for Python then enter ~/virtualenvs/api/bin/python.
+Click OK.
+Select 2.7.6 virtualenv at ~/virtualenvs/api, click the edit icon.
+Check Associate this virtual environment with current project.
+Click OK.
+Click OK.
+Click Apply, click OK.

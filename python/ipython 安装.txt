@@ -1,0 +1,23 @@
+1、配置虚拟环境
+2、apt install  python3-tk
+3、pip install jupyter ipython jsonschema tornado pyzmq jinja2
+4、ipython notebook --ip x.x.x.x
+
+魔术命令：
+1、%run：执行脚本
+2、%paste %cpaste：在shell中复制代码
+3、%quickref：ipython快速参考
+4、%magic：所有魔术命令的详细文档
+5、%debug：从最新的异常跟踪的底部进入交互调试器（u、d可以在栈跟踪的各级别之间切换）
+6、%hist：命令输入历史
+7、%rest：删除interactive命名空间中的全部变量
+8、%time xxxx：报告xxxx的执行时间
+9、%timeit xxxx：多次执行xxxx以继续按平均时间
+
+快捷键：
+ctrl + r： 按行读取的反向历史搜索
+ctrl + k： 删除光标至行位的文本
+ctrl + u： 删除行首到光标的文本
+ctrl + l： 清屏
+ctrl + up-arrow：后向搜索历史中以当前文本开头的命令（类似zsh中的上箭头）
+ctrl + down-arrow：前向搜索历史中以当前文本开头的命令（类似zsh中的下箭头）

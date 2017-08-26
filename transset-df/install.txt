@@ -1,0 +1,3 @@
+sudo apt-get install libx11-dev libxcomposite-dev libxrender-dev libxfixes-dev libxdamage-dev libxcomposite-dev
+
+

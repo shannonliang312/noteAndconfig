@@ -1,4 +1,4 @@
-#URxvt.background:black
+URxvt.background:black
 URxvt*transparent:true
 URxvt*shading: 80
 URxvt.background: [55]#000000
@@ -27,14 +27,10 @@ URxvt.scrollBar:False
 URxvt.saveLines:3000
 #URxvt.font:xft:Bitstream Vera Sans Mono-12,xft:STXinwei:size=13
 #URxvt.font:xft:Andale_Mono:style=Standard:size=12,xft:STXinwei:size=13
-#URxvt.font:xft:Roboto Mono for Powerline:style=Italic, xft:STXinwei:size=12
-URxvt.font: xft:DejaVu Sans Mono:pixelsize=19:style=Italic, xft:STXinwei:size=19
-URxvt.boldFont: xft:DejaVu Sans Mono:pixelsize=19:weight=bold, , xft:STXinwei:size=19
-
-#URxvt.boldFont:xft:Bitstream Vera Sans Mono-12:Bold,xft:WenQuanYi Bitmap Song-12:Bold
+URxvt.font:xft:Roboto Mono for Powerline:style=Italic, xft:STXinwei:size=12
+URxvt.boldFont:xft:Bitstream Vera Sans Mono-12:Bold,xft:WenQuanYi Bitmap Song-12:Bold
 URxvt.preeditType:Root
 URxvt.perl-ext-common: default,tabbed
 URxvt.tabbed.tab-fg: 12
 URxvt.tabbed.tab-bg: 0
 URxvt.tabbed.tabbar-fg: 4
-~                               

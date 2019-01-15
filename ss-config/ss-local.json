@@ -1,0 +1,10 @@
+{   
+    "server": "23.95.221.197",
+    "server_port": 444,
+    "method": "chacha20",
+    "password": "lsn1990312?",
+    "fast_open": false,
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "workers": 1
+}
